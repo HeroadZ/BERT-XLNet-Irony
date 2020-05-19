@@ -6,6 +6,9 @@ For the task description, check two things:
 2. [SemEval-2018 Task 3: Irony Detection in English Tweets](https://www.aclweb.org/anthology/S18-1005/)
 
 
+Check the papar DEIM2020_ZHANG_G1_4.pdf for detail explanantions.
+
+
 ## 1. Environment
 ```
 python3.6
