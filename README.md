@@ -6,7 +6,7 @@ For the task description, check two things:
 2. [SemEval-2018 Task 3: Irony Detection in English Tweets](https://www.aclweb.org/anthology/S18-1005/)
 
 
-Check the papar DEIM2020_ZHANG_G1_4.pdf for detail explanantions.
+This project provides the source code of the paper "Evaluation of BERT and XLNet Models on Irony Detection in English Tweets" which was presented on DEIM2020 and got a presentation award. DEIM2020 is a japanese workshop. The fullname of it is Proceedings of Forum on Data Engineering and Information Management. 
 
 
 ## 1. Environment
